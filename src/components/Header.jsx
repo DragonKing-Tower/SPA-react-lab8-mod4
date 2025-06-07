@@ -6,7 +6,7 @@ function Header() {
 	return (
 		<AppBar position="sticky">
 			<Toolbar>
-				<h2>Cyrils Marvellous Container of Random Objects</h2>
+				<h2>Cyril's Sad Container of More Pigs</h2>
 			</Toolbar>
 		</AppBar>
 	);
